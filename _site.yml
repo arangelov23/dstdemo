@@ -1,6 +1,6 @@
 name: "dstdemo"
 title: "dstdemo"
-description: |
+description: https://arangelov23.github.io/dstdemo/
   dstdemo
 output_dir: "docs"
 navbar:
