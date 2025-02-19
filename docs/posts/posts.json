@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2025-02-19-first-post/",
+    "title": "First-post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Will Arangelov",
+        "url": "https://journalism.uoregon.edu/directory/graduate-employees/all/willaran"
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\r\nCheck this plot.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2025-02-19-first-post/first-post_files/figure-html5/plot-1.png",
+    "last_modified": "2025-02-19T15:53:18-08:00",
+    "input_file": "first-post.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to dstdemo",
     "description": "Welcome to our new blog, dstdemo. We hope you enjoy \nreading what we have to say!",
