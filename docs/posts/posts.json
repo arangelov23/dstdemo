@@ -10,11 +10,13 @@
       }
     ],
     "date": "2025-02-19",
-    "categories": [],
+    "categories": [
+      "ggplot2"
+    ],
     "contents": "\r\nCheck this plot.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "posts/2025-02-19-first-post/first-post_files/figure-html5/plot-1.png",
-    "last_modified": "2025-02-19T15:53:18-08:00",
-    "input_file": "first-post.knit.md"
+    "last_modified": "2025-02-19T16:02:50-08:00",
+    "input_file": {}
   },
   {
     "path": "posts/welcome/",
