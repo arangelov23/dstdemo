@@ -1,0 +1,31 @@
+---
+title: "Second-post"
+description: |
+  A short description of the post.
+author:
+  - name: Will Arangelov
+    url: https://journalism.uoregon.edu/directory/graduate-employees/all/willaran
+date: 2025-02-19
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+ 
+Check this plot.
+
+```{r plot2}
+library(ggplot2)
+ggplot(mpg, aes(displ, cty)) +
+  geom_point(color = "green") +
+  theme_minimal()
+```
+
+
+
+
